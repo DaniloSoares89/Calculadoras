@@ -16,6 +16,7 @@ input{
     font-size:30px;
     font-family: 'Bebas Neue', sans-serif;
     border-radius: 25%;
+    
 }
 .num{
     width:64px;
@@ -40,6 +41,7 @@ input{
 }
 .main{
     display: inline-block;
+    text-align: center;
 }
 .maincolor{
     background-color: #000;
