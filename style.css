@@ -41,7 +41,6 @@ input{
 }
 .main{
     display: inline-block;
-    text-align: center;
 }
 .maincolor{
     background-color: #000;
