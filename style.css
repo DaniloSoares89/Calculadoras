@@ -6,9 +6,11 @@ body{
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color  ;
+    background-color: rgb(17, 17, 249);
+    
  
 }
+
 input{
     color:#fff;
     padding:17px;
