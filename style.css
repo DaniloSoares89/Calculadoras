@@ -15,7 +15,7 @@ input{
     color:#fff;
     padding:17px;
     outline:none;
-    font-size:30px;
+    font-size: 30px;
     font-family: 'Bebas Neue', sans-serif;
     border-radius: 25%;
     
@@ -23,6 +23,7 @@ input{
 .num{
     width:64px;
     height:67px;
+    
 }
 .text{
     width:160px;

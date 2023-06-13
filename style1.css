@@ -15,21 +15,34 @@ body{
 input{
     font-family: 'Bebas Neue', sans-serif;
     font-size: 30px;
-text-align: center;
+    text-align: center;
+    padding: 17px;
+    outline:none;
+    border-radius: 25%;
+
 
 }
 .text1{
-    width:24px;
-    height:28px;
+    width:22px;
+    height:24px;
     border-radius: 25%;
+
 }
 .text{
+    width:168px;
+    height:26;
+    border-radius: 22px;
+    margin-bottom: 12px;
     background-color: white;
+    text-align: center;
 }
 .num{
+    width:64px;
+    height:67px;
     padding: 10px;
     margin:2px;
     border-radius: 7px;
+    background-color: white;
 
     
 }
