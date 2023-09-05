@@ -10,6 +10,18 @@ body{
     
  
 }
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20pt;
+    
+    
+
+}
+.link a{
+    color:white;
+    text-decoration: none;
+
+}
 
 input{
     color:#fff;
